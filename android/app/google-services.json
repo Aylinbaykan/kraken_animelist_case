@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234971323946",
+    "project_id": "mikrogrup-d8e63",
+    "storage_bucket": "mikrogrup-d8e63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234971323946:android:452a1ff827c82203fb2d53",
+        "android_client_info": {
+          "package_name": "com.example.mikrogrup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-cUU8LGYRWsS_2XLmHtPs1UA7eM5H7NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
